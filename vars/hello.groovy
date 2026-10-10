@@ -1,3 +1,3 @@
 def madhan(){
-  echo "Hi madhan from jenkins
+  echo "Hi madhan from jenkins"
 }
